@@ -6,6 +6,14 @@ https://github.com/savvycodings/savvycodings/blob/main/lq%20final.gif
 
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/savvycodings/count.svg?"  />
+</div>
+
+###
+
+###
 <h2 align="left">About me</h2>
 
 ###
