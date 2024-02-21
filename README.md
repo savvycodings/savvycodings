@@ -157,6 +157,6 @@ https://github.com/savvycodings/savvycodings/blob/main/lq%20final.gif
 
 <div align="center">
 
-### Let's become friends on [Twitter](https://twitter.com/vikrantbhat1022)!
+### Let's become friends on [Twitter](https://twitter.com/savvycoding)!
 
 </div>
