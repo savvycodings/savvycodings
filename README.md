@@ -1,8 +1,4 @@
 <h1 align="left">Hi I'm Kyle "Savvy"👋 What's up?</h1>
-![](https://github.com/savvycodings/savvycodings/blob/main/lq%20final.gif))
-![](https://github.com/savvycodings/savvycodings/blob/main/lq%20final.gif))
-https://github.com/savvycodings/savvycodings/blob/main/lq%20final.gif
-
 ![https://github.com/savvycodings/savvycodings/blob/main/lq%20final.gif](https://github.com/savvycodings/savvycodings/blob/main/lq%20final.gif)
 <img align="center" width="800" alt="" src="https://github.com/savvycodings/savvycodings/blob/main/lq%20final.gif)" />
 
