@@ -6,9 +6,8 @@ https://github.com/savvycodings/savvycodings/blob/main/lq%20final.gif
 
 
 ###
-
-<div align="center">
   <h2> Profile Views </h2>
+<div align="center">
   <img src="https://profile-counter.glitch.me/savvycodings/count.svg?"  />
 </div>
 
