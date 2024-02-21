@@ -1,5 +1,5 @@
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/savvycodings/savvycodings/blob/main/banner%20final.gif))<br/>
-
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/savvycodings/savvycodings/blob/main/banner%20final.gif))
+![](https://github.com/savvycodings/savvycodings/blob/main/lq%20final.gif))
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/savvycoding) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kylenoome) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/savvycoding) 
 
