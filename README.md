@@ -1,5 +1,5 @@
 <h1 align="left">Hi I'm Kyle "Savvy"👋 What's up?</h1>
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/savvycodings/savvycodings/blob/main/banner%20final.gif))<br/>
+![](https://github.com/savvycodings/savvycodings/blob/main/lq%20final.gif))
 
 ###
 <h2 align="left">About me</h2>
