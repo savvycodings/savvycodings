@@ -68,6 +68,13 @@ https://github.com/savvycodings/savvycodings/blob/main/lq%20final.gif
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 - ⚡ &nbsp; Fun fact: I love to play with art and there is a 88% probability that I'll beat you in a badminton match :p
 
+###
+
+<img src="https://raw.githubusercontent.com/savvycodings/savvycodings/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 ### Projects and Dev Stuff:
 
 
