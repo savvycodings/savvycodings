@@ -19,7 +19,7 @@ https://github.com/savvycodings/savvycodings/blob/main/lq%20final.gif
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning complex Rust<br>🎯 Goals: Most of them are completed :D<br>🎲 Fun fact: Lover of animals</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning complex Rust<br>🎲 Fun fact: Lover of UI Animation</p>
 
 ###
 
