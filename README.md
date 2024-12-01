@@ -1,9 +1,4 @@
-<h1 align="left">Hi I'm Kyle "Savvy" <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />  What's up?</h1>
-
-https://github.com/savvycodings/savvycodings/blob/main/lq%20final.gif
-
-![https://github.com/savvycodings/savvycodings/blob/main/lq%20final.gif](https://github.com/savvycodings/savvycodings/blob/main/lq%20final.gif)
-
+<h1 align="left">Hi I'm Kyle <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />  What's up?</h1>
 
 ###
  
