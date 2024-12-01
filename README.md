@@ -38,17 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
-###
-<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://vikrantbhat.com/) -->
-
-
-
-
-
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/savvycoding)
-
-
 ### Glad to see you here! &nbsp; ![](https://TEST-badge.glitch.me/badge?page_id=TEST.TEST&style=flat-square&color=0088cc)
 
 ## 🏆 GitHub Trophies
